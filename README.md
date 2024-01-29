@@ -1,5 +1,6 @@
 build
 ```
+npm run build
 docker build . -t ctnelson1997/coletnelson-us
 docker push ctnelson1997/coletnelson-us
 ```
