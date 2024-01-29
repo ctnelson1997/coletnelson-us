@@ -1,5 +1,4 @@
 import { Col, Container, Row } from "react-bootstrap";
-import BlogPost from "./BlogPost";
 import BlogPostList from "./BlogPostList";
 
 export default function Blog() {
