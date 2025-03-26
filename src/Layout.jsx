@@ -13,8 +13,8 @@ export default function Layout() {
                         <Nav className="me-auto">
                             <Nav.Link as={Link} to="/">home</Nav.Link>
                             <Nav.Link as={Link} to="/blog">blog</Nav.Link>
-                            <Nav.Link as={Anchor} target="_blank" href="https://www.coletnelson.us/assets/ctnelson2_resume.pdf">resume</Nav.Link>
-                            <Nav.Link as={Anchor} target="_blank" href="https://www.coletnelson.us/assets/ctnelson2_cv.pdf">cv</Nav.Link>
+                            <Nav.Link as={Anchor} target="_blank" href="https://coletnelson.us/assets/ctnelson2_resume.pdf">resume</Nav.Link>
+                            <Nav.Link as={Anchor} target="_blank" href="https://coletnelson.us/assets/ctnelson2_cv.pdf">cv</Nav.Link>
                             <Nav.Link as={Anchor} target="_blank" href="https://cs571.org">cs571.org</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
