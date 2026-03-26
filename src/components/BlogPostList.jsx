@@ -5,9 +5,12 @@ import { Col } from "react-bootstrap";
 import BlogPost001 from "./blogger/blogs/BlogPost001";
 import BlogPost002 from "./blogger/blogs/BlogPost002";
 import BlogPost003 from "./blogger/blogs/BlogPost003";
+import BlogPost004 from "./blogger/blogs/BlogPost004";
+
 
 export default function BlogPostList(props) {
     const posts = useMemo(() => [
+        <BlogPost004/>,
         <BlogPost003/>,
         <BlogPost002/>,
         <BlogPost001/>,
