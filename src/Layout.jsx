@@ -1,4 +1,4 @@
-import { Anchor, Container, Nav, Navbar, NavDropdown } from 'react-bootstrap';
+import { Anchor, Container, Dropdown, Nav, Navbar, NavDropdown } from 'react-bootstrap';
 import { Outlet } from 'react-router';
 import { Link } from 'react-router-dom';
 
@@ -15,6 +15,11 @@ export default function Layout() {
                             <Nav.Link as={Link} to="/blog">blog</Nav.Link>
                             <Nav.Link as={Anchor} target="_blank" href="https://coletnelson.us/assets/ctnelson2_resume.pdf">resume</Nav.Link>
                             <Nav.Link as={Anchor} target="_blank" href="https://coletnelson.us/assets/ctnelson2_cv.pdf">cv</Nav.Link>
+                            <NavDropdown title="visualizations" id="basic-nav-dropdown">
+                                <NavDropdown.Item as={Anchor} target="_blank" href="https://pytutor.org/">pytutor.org (Python)</NavDropdown.Item>
+                                <NavDropdown.Item as={Anchor} target="_blank" href="https://jstutor.org/">jstutor.org (JavaScript)</NavDropdown.Item>
+                                <NavDropdown.Item as={Anchor} target="_blank" href="https://javatutor.org/">javatutor.org (Java)</NavDropdown.Item>
+                            </NavDropdown>
                             <Nav.Link as={Anchor} target="_blank" href="https://cs571.org">cs571.org</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
