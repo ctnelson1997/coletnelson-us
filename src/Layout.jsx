@@ -13,8 +13,8 @@ export default function Layout() {
                         <Nav className="me-auto">
                             <Nav.Link as={Link} to="/">home</Nav.Link>
                             <Nav.Link as={Link} to="/blog">blog</Nav.Link>
-                            <Nav.Link as={Anchor} target="_blank" href="https://coletnelson.us/assets/ctnelson2_resume.pdf">resume</Nav.Link>
-                            <Nav.Link as={Anchor} target="_blank" href="https://coletnelson.us/assets/ctnelson2_cv.pdf">cv</Nav.Link>
+                            <Nav.Link as={Anchor} target="_blank" href="https://coletnelson.us/resources/ctnelson2_resume.pdf">resume</Nav.Link>
+                            <Nav.Link as={Anchor} target="_blank" href="https://coletnelson.us/resources/ctnelson2_cv.pdf">cv</Nav.Link>
                             <NavDropdown title="visualizations" id="basic-nav-dropdown">
                                 <NavDropdown.Item as={Anchor} target="_blank" href="https://pytutor.org/">pytutor.org (Python)</NavDropdown.Item>
                                 <NavDropdown.Item as={Anchor} target="_blank" href="https://jstutor.org/">jstutor.org (JavaScript)</NavDropdown.Item>
