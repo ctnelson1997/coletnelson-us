@@ -18,7 +18,6 @@ export default function Layout() {
                             <NavDropdown title="visualizations" id="basic-nav-dropdown">
                                 <NavDropdown.Item as={Anchor} target="_blank" href="https://pytutor.org/">pytutor.org (Python)</NavDropdown.Item>
                                 <NavDropdown.Item as={Anchor} target="_blank" href="https://jstutor.org/">jstutor.org (JavaScript)</NavDropdown.Item>
-                                <NavDropdown.Item as={Anchor} target="_blank" href="https://javatutor.org/">javatutor.org (Java)</NavDropdown.Item>
                             </NavDropdown>
                             <Nav.Link as={Anchor} target="_blank" href="https://cs571.org">cs571.org</Nav.Link>
                         </Nav>

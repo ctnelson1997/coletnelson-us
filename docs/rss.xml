@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cole Tyler Nelson</title>
+    <link>https://coletnelson.us/</link>
+    <atom:link href="https://coletnelson.us/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Blog posts by Cole Tyler Nelson, instructor at UW-Madison.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 May 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>AI Will Kill Open Source</title>
+      <link>https://coletnelson.us/#/blog/ai-will-kill-open-source</link>
+      <guid isPermaLink="true">https://coletnelson.us/#/blog/ai-will-kill-open-source</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+      <author>ctnelson2@wisc.edu (Cole Tyler Nelson)</author>
+      <description>A hypothesis on the recent Canvas breach — and how AI-assisted vulnerability discovery may push companies to close their source.</description>
+    </item>
+    <item>
+      <title>Free Visualization Tools</title>
+      <link>https://coletnelson.us/#/blog/free-visualization-tools</link>
+      <guid isPermaLink="true">https://coletnelson.us/#/blog/free-visualization-tools</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+      <author>ctnelson2@wisc.edu (Cole Tyler Nelson)</author>
+      <description>Free, open-source visualization tools for Python, JavaScript, and Java — built for students and educators.</description>
+    </item>
+    <item>
+      <title>Open Courseware (Completely!)</title>
+      <link>https://coletnelson.us/#/blog/open-courseware-completely</link>
+      <guid isPermaLink="true">https://coletnelson.us/#/blog/open-courseware-completely</guid>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
+      <author>ctnelson2@wisc.edu (Cole Tyler Nelson)</author>
+      <description>CS571 is now completely open access — no .edu email required.</description>
+    </item>
+    <item>
+      <title>Open Courseware</title>
+      <link>https://coletnelson.us/#/blog/open-courseware</link>
+      <guid isPermaLink="true">https://coletnelson.us/#/blog/open-courseware</guid>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+      <author>ctnelson2@wisc.edu (Cole Tyler Nelson)</author>
+      <description>CS571 is now open access for anyone with a .edu email address.</description>
+    </item>
+    <item>
+      <title>On Teaching Web Dev</title>
+      <link>https://coletnelson.us/#/blog/on-teaching-web-dev</link>
+      <guid isPermaLink="true">https://coletnelson.us/#/blog/on-teaching-web-dev</guid>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
+      <author>ctnelson2@wisc.edu (Cole Tyler Nelson)</author>
+      <description>Reflections on teaching CS571 and what should make up the foundation of a web development education.</description>
+    </item>
+    <item>
+      <title>Joining UW-Madison!</title>
+      <link>https://coletnelson.us/#/blog/joining-uw-madison</link>
+      <guid isPermaLink="true">https://coletnelson.us/#/blog/joining-uw-madison</guid>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+      <author>ctnelson2@wisc.edu (Cole Tyler Nelson)</author>
+      <description>Joining the UW-Madison CS department as an instructor for CS220 and CS571.</description>
+    </item>
+  </channel>
+</rss>
